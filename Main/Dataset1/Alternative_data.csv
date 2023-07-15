@@ -1,0 +1,955 @@
+,ix,phrase,start_char,end_char,ner_label,dataset_label,label_in_phrase
+0,0,the National Education Longitudinal Study (,26,69,ORG,national education longitudinal study,1
+1,0,first,275,280,ORDINAL,national education longitudinal study,0
+2,0,NELS,787,791,ORG,national education longitudinal study,0
+3,0,880,917,920,CARDINAL,national education longitudinal study,0
+4,0,NELS,1011,1015,ORG,national education longitudinal study,0
+5,0,"7,920",1147,1152,CARDINAL,national education longitudinal study,0
+6,0,two,1566,1569,CARDINAL,national education longitudinal study,0
+7,0,Bachelor,1633,1641,PERSON,national education longitudinal study,0
+8,0,WWC,1795,1798,ORG,national education longitudinal study,0
+9,0,first,2009,2014,ORDINAL,national education longitudinal study,0
+10,0,Bachelor,2114,2122,PERSON,national education longitudinal study,0
+11,0,post-Bachelor's,2151,2166,ORG,national education longitudinal study,0
+12,0,WWC,2426,2429,ORG,national education longitudinal study,0
+13,0,Appendix,2488,2496,GPE,national education longitudinal study,0
+14,0,three,2777,2782,CARDINAL,national education longitudinal study,0
+15,0,six,2828,2831,CARDINAL,national education longitudinal study,0
+16,0,three,2869,2874,CARDINAL,national education longitudinal study,0
+17,0,one,2894,2897,CARDINAL,national education longitudinal study,0
+18,0,six,3031,3034,CARDINAL,national education longitudinal study,0
+19,0,two,3050,3053,CARDINAL,national education longitudinal study,0
+20,0,seven,3087,3092,CARDINAL,national education longitudinal study,0
+21,0,Appendix,3222,3230,GPE,national education longitudinal study,0
+22,0,four,3314,3318,CARDINAL,national education longitudinal study,0
+23,0,1990,3333,3337,DATE,national education longitudinal study,0
+24,0,1992,3339,3343,DATE,national education longitudinal study,0
+25,0,1994,3345,3349,DATE,national education longitudinal study,0
+26,0,2000,3355,3359,DATE,national education longitudinal study,0
+27,0,fourth,3366,3372,ORDINAL,national education longitudinal study,0
+28,0,2000,3384,3388,DATE,national education longitudinal study,0
+29,0,eighth,4186,4192,ORDINAL,national education longitudinal study,0
+30,0,first,4205,4210,ORDINAL,national education longitudinal study,0
+31,0,the spring of 1988,4223,4241,DATE,national education longitudinal study,0
+32,0,NELS,4308,4312,ORG,national education longitudinal study,0
+33,0,NELS,4543,4547,ORG,national education longitudinal study,0
+34,0,two,4802,4805,CARDINAL,national education longitudinal study,0
+35,0,fourth,4938,4944,ORDINAL,national education longitudinal study,0
+36,0,NELS,4962,4966,ORG,national education longitudinal study,0
+37,0,2000,4980,4984,DATE,national education longitudinal study,0
+38,0,Appendix B.,5049,5060,PERSON,national education longitudinal study,0
+39,0,fourth,5435,5441,ORDINAL,national education longitudinal study,0
+40,0,the National Education Longitudinal Study,5455,5496,ORG,national education longitudinal study,1
+41,0,2000,5510,5514,DATE,national education longitudinal study,0
+42,0,fourth,5659,5665,ORDINAL,national education longitudinal study,0
+43,0,the National Education Longitudinal Study,5679,5720,ORG,national education longitudinal study,1
+44,0,2000,5734,5738,DATE,national education longitudinal study,0
+45,0,WWC,6252,6255,ORG,national education longitudinal study,0
+46,0,two,6316,6319,CARDINAL,national education longitudinal study,0
+47,0,WWC,6491,6494,ORG,national education longitudinal study,0
+48,0,1,7059,7060,CARDINAL,national education longitudinal study,0
+49,0,WWC,7186,7189,ORG,national education longitudinal study,0
+50,0,two,7316,7319,CARDINAL,national education longitudinal study,0
+51,0,two,7367,7370,CARDINAL,national education longitudinal study,0
+52,0,WWC,7407,7410,ORG,national education longitudinal study,0
+53,0,WWC,7556,7559,ORG,national education longitudinal study,0
+54,0,two,7653,7656,CARDINAL,national education longitudinal study,0
+55,0,0.02,7740,7744,CARDINAL,national education longitudinal study,0
+56,0,0.00,7749,7753,CARDINAL,national education longitudinal study,0
+57,0,WWC,7795,7798,ORG,national education longitudinal study,0
+58,0,two,7873,7876,CARDINAL,national education longitudinal study,0
+59,0,WWC,8671,8674,ORG,national education longitudinal study,0
+60,0,WWC,8910,8913,ORG,national education longitudinal study,0
+61,0,WWC,9489,9492,ORG,national education longitudinal study,0
+62,0,50th,10074,10078,ORDINAL,national education longitudinal study,0
+63,0,WWC,10193,10196,ORG,national education longitudinal study,0
+64,0,QED,10322,10325,ORG,national education longitudinal study,0
+65,0,RCT,10486,10489,ORG,national education longitudinal study,0
+66,0,WWC,11291,11294,ORG,national education longitudinal study,0
+67,0,less than 5%,11396,11408,PERCENT,national education longitudinal study,0
+68,0,0.25,11513,11517,CARDINAL,national education longitudinal study,0
+69,0,the WWC Procedures and Standards Handbook,11581,11622,ORG,national education longitudinal study,0
+70,0,2.1,11632,11635,CARDINAL,national education longitudinal study,0
+71,1,the National Education Longitudinal Study of 1988,418,467,ORG,national education longitudinal study,1
+72,1,NELS:88,469,476,ORG,national education longitudinal study,0
+73,1,Berktold,479,487,PERSON,national education longitudinal study,0
+74,1,Geis,489,493,PERSON,national education longitudinal study,0
+75,1,Kaufman,499,506,PERSON,national education longitudinal study,0
+76,1,1998,508,512,DATE,national education longitudinal study,0
+77,1,the 21 percent,553,567,PERCENT,national education longitudinal study,0
+78,1,1988,571,575,DATE,national education longitudinal study,0
+79,1,eighth,576,582,ORDINAL,national education longitudinal study,0
+80,1,eighth,648,654,ORDINAL,national education longitudinal study,0
+81,1,the spring of 1994,665,683,DATE,national education longitudinal study,0
+82,1,2 years,685,692,DATE,national education longitudinal study,0
+83,1,1,781,782,CARDINAL,national education longitudinal study,0
+84,1,about 44 percent,799,815,PERCENT,national education longitudinal study,0
+85,1,1994,913,917,DATE,national education longitudinal study,0
+86,1,the 56 percent,922,936,PERCENT,national education longitudinal study,0
+87,1,1994,990,994,DATE,national education longitudinal study,0
+88,1,43 percent,996,1006,PERCENT,national education longitudinal study,0
+89,1,Geis,1104,1108,PERSON,national education longitudinal study,0
+90,1,Kaufman,1114,1121,PERSON,national education longitudinal study,0
+91,1,NELS:88,1140,1147,ORG,national education longitudinal study,0
+92,1,another 6 years,1155,1170,DATE,national education longitudinal study,0
+93,1,the year 2000-8 years,1261,1282,DATE,national education longitudinal study,0
+94,1,GED,1522,1525,ORG,national education longitudinal study,0
+95,1,GED,1612,1615,ORG,national education longitudinal study,0
+96,1,1994,1635,1639,DATE,national education longitudinal study,0
+97,1,2000,1643,1647,DATE,national education longitudinal study,0
+98,1,4 consecutive weeks,1870,1889,DATE,national education longitudinal study,0
+99,1,Ingels et al.,1980,1993,ORG,national education longitudinal study,0
+100,1,1988,2017,2021,DATE,national education longitudinal study,0
+101,1,eighth,2022,2028,CARDINAL,national education longitudinal study,0
+102,1,first,2105,2110,ORDINAL,national education longitudinal study,0
+103,1,1,2137,2138,CARDINAL,national education longitudinal study,0
+104,1,NELS,2235,2239,ORG,national education longitudinal study,0
+105,1,third,2240,2245,ORDINAL,national education longitudinal study,0
+106,1,spring 1994,2259,2270,DATE,national education longitudinal study,0
+107,1,2,2272,2273,CARDINAL,national education longitudinal study,0
+108,1,NELS,2363,2367,ORG,national education longitudinal study,0
+109,1,third,2368,2373,ORDINAL,national education longitudinal study,0
+110,1,NELS,2392,2396,ORG,national education longitudinal study,0
+111,1,fourth,2397,2403,ORDINAL,national education longitudinal study,0
+112,1,spring 2000,2417,2428,DATE,national education longitudinal study,0
+113,1,first,2573,2578,ORDINAL,national education longitudinal study,0
+114,1,GED,2691,2694,ORG,national education longitudinal study,0
+115,1,U.S. Department of Education,2783,2811,ORG,national education longitudinal study,0
+116,1,National Center for Education Statistics,2813,2853,ORG,national education longitudinal study,0
+117,1,National Education Longitudinal Study of 1988,2855,2900,ORG,national education longitudinal study,1
+118,1,Geis,3017,3021,PERSON,national education longitudinal study,0
+119,1,Kaufman,3027,3034,PERSON,national education longitudinal study,0
+120,1,1998,3036,3040,DATE,national education longitudinal study,0
+121,1,About 92 percent,3095,3111,PERCENT,national education longitudinal study,0
+122,1,NELS,3115,3119,ORG,national education longitudinal study,0
+123,1,1988,3120,3124,DATE,national education longitudinal study,0
+124,1,eighth,3125,3131,ORDINAL,national education longitudinal study,0
+125,1,spring 2000,3218,3229,DATE,national education longitudinal study,0
+126,1,88 percent,3231,3241,PERCENT,national education longitudinal study,0
+127,1,spring 1994,3303,3314,DATE,national education longitudinal study,0
+128,1,an additional 4 percent,3320,3343,PERCENT,national education longitudinal study,0
+129,1,spring 1994,3357,3368,DATE,national education longitudinal study,0
+130,1,spring 2000,3376,3387,DATE,national education longitudinal study,0
+131,1,1,3395,3396,CARDINAL,national education longitudinal study,0
+132,1,1988,3418,3422,DATE,national education longitudinal study,0
+133,1,eighth,3423,3429,CARDINAL,national education longitudinal study,0
+134,1,20 percent,3444,3454,PERCENT,national education longitudinal study,0
+135,1,"about 587,000",3455,3468,CARDINAL,national education longitudinal study,0
+136,1,43 percent,3583,3593,PERCENT,national education longitudinal study,0
+137,1,spring 1994,3652,3663,DATE,national education longitudinal study,0
+138,1,14 percent,3665,3675,PERCENT,national education longitudinal study,0
+139,1,29 percent,3709,3719,PERCENT,national education longitudinal study,0
+140,1,GED,3729,3732,ORG,national education longitudinal study,0
+141,1,An additional 20 percent,3750,3774,PERCENT,national education longitudinal study,0
+142,1,spring 1994,3836,3847,DATE,national education longitudinal study,0
+143,1,spring 2000,3855,3866,DATE,national education longitudinal study,0
+144,1,5 percent,3868,3877,PERCENT,national education longitudinal study,0
+145,1,15 percent,3911,3921,PERCENT,national education longitudinal study,0
+146,1,GED,3931,3934,ORG,national education longitudinal study,0
+147,1,63 percent,3958,3968,PERCENT,national education longitudinal study,0
+148,1,2000,4041,4045,DATE,national education longitudinal study,0
+149,1,Forty-four percent,4047,4065,PERCENT,national education longitudinal study,0
+150,1,GED,4132,4135,ORG,national education longitudinal study,0
+151,1,19 percent,4155,4165,PERCENT,national education longitudinal study,0
+152,1,2000,4186,4190,DATE,national education longitudinal study,0
+153,1,2000,4198,4202,DATE,national education longitudinal study,0
+154,1,37 percent,4204,4214,PERCENT,national education longitudinal study,0
+155,1,5 percent,4296,4305,PERCENT,national education longitudinal study,0
+156,1,32 percent,4373,4383,PERCENT,national education longitudinal study,0
+157,1,6,4456,4457,CARDINAL,national education longitudinal study,0
+158,1,Geis,4484,4488,PERSON,national education longitudinal study,0
+159,1,Kaufman,4494,4501,PERSON,national education longitudinal study,0
+160,1,1998,4505,4509,DATE,national education longitudinal study,0
+161,1,1994,4559,4563,DATE,national education longitudinal study,0
+162,1,eighth,4634,4640,CARDINAL,national education longitudinal study,0
+163,1,2000,4841,4845,DATE,national education longitudinal study,0
+164,1,2,4865,4866,CARDINAL,national education longitudinal study,0
+165,1,7 percent,4868,4877,PERCENT,national education longitudinal study,0
+166,1,quarter,4946,4953,CARDINAL,national education longitudinal study,0
+167,1,1988,4957,4961,DATE,national education longitudinal study,0
+168,1,2000,5000,5004,DATE,national education longitudinal study,0
+169,1,43 percent,5006,5016,PERCENT,national education longitudinal study,0
+170,1,NELS,5035,5039,ORG,national education longitudinal study,0
+171,1,the bottom quarter,5092,5110,DATE,national education longitudinal study,0
+172,1,26 percent,5228,5238,PERCENT,national education longitudinal study,0
+173,1,16 percent,5286,5296,PERCENT,national education longitudinal study,0
+174,1,the highest quarter,5323,5342,DATE,national education longitudinal study,0
+175,1,eighth,5369,5375,ORDINAL,national education longitudinal study,0
+176,1,2000,5526,5530,DATE,national education longitudinal study,0
+177,1,2,5603,5604,CARDINAL,national education longitudinal study,0
+178,1,some 50 percent,5606,5621,PERCENT,national education longitudinal study,0
+179,1,eighth,5650,5656,ORDINAL,national education longitudinal study,0
+180,1,2000,5775,5779,DATE,national education longitudinal study,0
+181,1,25 percent,5794,5804,PERCENT,national education longitudinal study,0
+182,1,eighth,5833,5839,ORDINAL,national education longitudinal study,0
+183,1,2000,5966,5970,DATE,national education longitudinal study,0
+184,1,2000,5975,5979,DATE,national education longitudinal study,0
+185,1,23 percent,5981,5991,PERCENT,national education longitudinal study,0
+186,1,eighth,6020,6026,ORDINAL,national education longitudinal study,0
+187,1,44 percent,6173,6183,PERCENT,national education longitudinal study,0
+188,1,eighth,6212,6218,ORDINAL,national education longitudinal study,0
+189,1,2000,6345,6349,DATE,national education longitudinal study,0
+190,1,43 percent,6351,6361,PERCENT,national education longitudinal study,0
+191,1,3,6482,6483,CARDINAL,national education longitudinal study,0
+192,1,13 percent,6506,6516,PERCENT,national education longitudinal study,0
+193,1,first,6526,6531,ORDINAL,national education longitudinal study,0
+194,1,4-year,6547,6553,CARDINAL,national education longitudinal study,0
+195,1,58 percent,6567,6577,PERCENT,national education longitudinal study,0
+196,1,29 percent,6642,6652,PERCENT,national education longitudinal study,0
+197,1,spring 1994,6763,6774,DATE,national education longitudinal study,0
+198,1,spring 1994,6873,6884,DATE,national education longitudinal study,0
+199,1,spring 2000,6892,6903,DATE,national education longitudinal study,0
+200,1,66 percent,6905,6915,PERCENT,national education longitudinal study,0
+201,1,45 percent,6930,6940,PERCENT,national education longitudinal study,0
+202,1,Fifteen percent,6943,6958,PERCENT,national education longitudinal study,0
+203,1,2000,7044,7048,DATE,national education longitudinal study,0
+204,1,9 percent,7139,7148,PERCENT,national education longitudinal study,0
+205,1,first,7158,7163,ORDINAL,national education longitudinal study,0
+206,1,4-year,7179,7185,CARDINAL,national education longitudinal study,0
+207,1,38 percent,7199,7209,PERCENT,national education longitudinal study,0
+208,1,54 percent,7246,7256,PERCENT,national education longitudinal study,0
+209,1,27 percent,7346,7356,PERCENT,national education longitudinal study,0
+210,1,9 percent,7403,7412,PERCENT,national education longitudinal study,0
+211,1,spring 2000,7467,7478,DATE,national education longitudinal study,0
+212,1,Issue Brief,7541,7552,WORK_OF_ART,national education longitudinal study,0
+213,1,several years,7700,7713,DATE,national education longitudinal study,0
+214,1,63 percent,7715,7725,PERCENT,national education longitudinal study,0
+215,1,43 percent,7776,7786,PERCENT,national education longitudinal study,0
+216,1,2000,8048,8052,DATE,national education longitudinal study,0
+217,1,a later date,8181,8193,DATE,national education longitudinal study,0
+218,1,NELS,8221,8225,ORG,national education longitudinal study,0
+219,1,2,8384,8385,CARDINAL,national education longitudinal study,0
+220,1,1988,8391,8395,DATE,national education longitudinal study,0
+221,1,eighth,8396,8402,ORDINAL,national education longitudinal study,0
+222,1,2000,8562,8566,CARDINAL,national education longitudinal study,0
+223,1,1,8598,8599,CARDINAL,national education longitudinal study,0
+224,1,NELS,8696,8700,ORG,national education longitudinal study,0
+225,1,third,8701,8706,ORDINAL,national education longitudinal study,0
+226,1,spring 1994,8720,8731,DATE,national education longitudinal study,0
+227,1,2,8733,8734,CARDINAL,national education longitudinal study,0
+228,1,NELS,8824,8828,ORG,national education longitudinal study,0
+229,1,third,8829,8834,ORDINAL,national education longitudinal study,0
+230,1,NELS,8853,8857,ORG,national education longitudinal study,0
+231,1,fourth,8858,8864,ORDINAL,national education longitudinal study,0
+232,1,spring 2000,8878,8889,DATE,national education longitudinal study,0
+233,1,first,9034,9039,ORDINAL,national education longitudinal study,0
+234,1,GED,9152,9155,ORG,national education longitudinal study,0
+235,1,U.S. Department of Education,9244,9272,ORG,national education longitudinal study,0
+236,1,National Center for Education Statistics,9274,9314,ORG,national education longitudinal study,0
+237,1,National Education,9316,9334,ORG,national education longitudinal study,0
+238,1,about 5 percent,9381,9396,PERCENT,national education longitudinal study,0
+239,1,1988,9404,9408,DATE,national education longitudinal study,0
+240,1,eighth,9409,9415,ORDINAL,national education longitudinal study,0
+241,1,English,9511,9518,LANGUAGE,national education longitudinal study,0
+242,1,Spencer et al.,9702,9716,PERSON,national education longitudinal study,0
+243,1,1990,9718,9722,DATE,national education longitudinal study,0
+244,1,Ingels (1996,9728,9740,ORG,national education longitudinal study,0
+245,1,2,9744,9745,CARDINAL,national education longitudinal study,0
+246,1,8,9830,9831,CARDINAL,national education longitudinal study,0
+247,1,NELS:88,9857,9864,ORG,national education longitudinal study,0
+248,1,base-year,9865,9874,DATE,national education longitudinal study,0
+249,1,first,9911,9916,ORDINAL,national education longitudinal study,0
+250,1,second,9918,9924,ORDINAL,national education longitudinal study,0
+251,1,third,9926,9931,ORDINAL,national education longitudinal study,0
+252,1,fourth,9937,9943,ORDINAL,national education longitudinal study,0
+253,1,"10,827",9987,9993,CARDINAL,national education longitudinal study,0
+254,1,approximately 2.9 million,10018,10043,CARDINAL,national education longitudinal study,0
+255,1,the United States,10061,10078,GPE,national education longitudinal study,0
+256,1,the year 2000,10082,10095,DATE,national education longitudinal study,0
+257,1,8,10120,10121,CARDINAL,national education longitudinal study,0
+258,1,1988,10141,10145,DATE,national education longitudinal study,0
+259,1,Berktold,10193,10201,GPE,national education longitudinal study,0
+260,1,Geis,10203,10207,PERSON,national education longitudinal study,0
+261,1,Kaufman,10213,10220,PERSON,national education longitudinal study,0
+262,1,1998,10224,10228,DATE,national education longitudinal study,0
+263,1,3,10281,10282,CARDINAL,national education longitudinal study,0
+264,1,3,10366,10367,CARDINAL,national education longitudinal study,0
+265,2,"Benz, Doren",433,444,ORG,national education longitudinal study,0
+266,2,& Yovanoff,446,456,ORG,national education longitudinal study,0
+267,2,1998,458,462,DATE,national education longitudinal study,0
+268,2,Doren & Benz,464,476,ORG,national education longitudinal study,0
+269,2,2001,478,482,DATE,national education longitudinal study,0
+270,2,Fulton & Sabornie,484,501,ORG,national education longitudinal study,0
+271,2,1994,503,507,DATE,national education longitudinal study,0
+272,2,Hasazi,509,515,ORG,national education longitudinal study,0
+273,2,"Gordon, & Roe",517,530,ORG,national education longitudinal study,0
+274,2,1985,532,536,DATE,national education longitudinal study,0
+275,2,Lindstrom,538,547,ORG,national education longitudinal study,0
+276,2,"Benz, & Doren",549,562,ORG,national education longitudinal study,0
+277,2,2004,564,568,DATE,national education longitudinal study,0
+278,2,Oswald,570,576,GPE,national education longitudinal study,0
+279,2,Coutinho,578,586,PERSON,national education longitudinal study,0
+280,2,& Nagle,594,601,ORG,national education longitudinal study,0
+281,2,2002,603,607,DATE,national education longitudinal study,0
+282,2,Sitlington & Frank,609,627,ORG,national education longitudinal study,0
+283,2,1985,629,633,DATE,national education longitudinal study,0
+284,2,Wagner,635,641,ORG,national education longitudinal study,0
+285,2,Cameto,643,649,ORG,national education longitudinal study,0
+286,2,2003,661,665,DATE,national education longitudinal study,0
+287,2,NCLB,951,955,ORG,national education longitudinal study,0
+288,2,recent years,1241,1253,DATE,national education longitudinal study,0
+289,2,National Education Longitudinal Study of 1988,1305,1350,ORG,national education longitudinal study,1
+290,2,the U.S. Department of Education,2146,2178,ORG,national education longitudinal study,0
+291,2,DOE,2180,2183,ORG,national education longitudinal study,0
+292,2,DOE,2282,2285,ORG,national education longitudinal study,0
+293,2,52.6%,2397,2402,PERCENT,national education longitudinal study,0
+294,2,1995-1996,2406,2415,DATE,national education longitudinal study,0
+295,2,56.2%,2419,2424,PERCENT,national education longitudinal study,0
+296,2,1999-2000,2428,2437,DATE,national education longitudinal study,0
+297,2,U.S. Department of Education,2529,2557,ORG,national education longitudinal study,0
+298,2,2002,2559,2563,DATE,national education longitudinal study,0
+299,2,Stephenson & Burge,3243,3261,ORG,national education longitudinal study,0
+300,2,1997,3263,3267,DATE,national education longitudinal study,0
+301,2,U.S. Department of Labor,3270,3294,ORG,national education longitudinal study,0
+302,2,2004,3296,3300,DATE,national education longitudinal study,0
+303,2,1994,3767,3771,DATE,national education longitudinal study,0
+304,2,the Individuals with Disabilities Education Act (,4007,4056,ORG,national education longitudinal study,0
+305,2,1990,4065,4069,DATE,national education longitudinal study,0
+306,2,The National Education Longitudinal Study (,4071,4114,ORG,national education longitudinal study,1
+307,2,NELS,4114,4118,ORG,national education longitudinal study,0
+308,2,the National Center for Education Statistics,4146,4190,ORG,national education longitudinal study,0
+309,2,NCES,4192,4196,ORG,national education longitudinal study,0
+310,2,NCES,4422,4426,ORG,national education longitudinal study,0
+311,2,1994,4428,4432,DATE,national education longitudinal study,0
+312,2,2,4437,4438,CARDINAL,national education longitudinal study,0
+313,2,12th,4467,4471,ORDINAL,national education longitudinal study,0
+314,2,the National Longitudinal Study of the high,4488,4531,ORG,national education longitudinal study,0
+315,2,1972,4548,4552,DATE,national education longitudinal study,0
+316,2,the 1980s,4574,4583,DATE,national education longitudinal study,0
+317,2,10th-and,4651,4659,DATE,national education longitudinal study,0
+318,2,12th,4660,4664,ORDINAL,national education longitudinal study,0
+319,2,eighth,4766,4772,ORDINAL,national education longitudinal study,0
+320,2,1988,4782,4786,DATE,national education longitudinal study,0
+321,2,1990,4821,4825,DATE,national education longitudinal study,0
+322,2,1992,4827,4831,DATE,national education longitudinal study,0
+323,2,1994,4837,4841,DATE,national education longitudinal study,0
+324,2,1994,4967,4971,DATE,national education longitudinal study,0
+325,2,fourth,5004,5010,ORDINAL,national education longitudinal study,0
+326,2,2000,5035,5039,DATE,national education longitudinal study,0
+327,2,The base year (1988,5226,5245,DATE,national education longitudinal study,0
+328,2,two,5276,5279,CARDINAL,national education longitudinal study,0
+329,2,eighth,5364,5370,CARDINAL,national education longitudinal study,0
+330,2,first,5403,5408,ORDINAL,national education longitudinal study,0
+331,2,"1,052",5423,5428,CARDINAL,national education longitudinal study,0
+332,2,815,5452,5455,CARDINAL,national education longitudinal study,0
+333,2,237,5475,5478,CARDINAL,national education longitudinal study,0
+334,2,second,5500,5506,ORDINAL,national education longitudinal study,0
+335,2,"26,432",5572,5578,CARDINAL,national education longitudinal study,0
+336,2,"24,599",5623,5629,CARDINAL,national education longitudinal study,0
+337,2,1988,5650,5654,DATE,national education longitudinal study,0
+338,2,1994,5678,5682,DATE,national education longitudinal study,0
+339,2,Three,5686,5691,CARDINAL,national education longitudinal study,0
+340,2,1994,5807,5811,DATE,national education longitudinal study,0
+341,2,2 years,5843,5850,DATE,national education longitudinal study,0
+342,2,the base year,5906,5919,DATE,national education longitudinal study,0
+343,2,1994,6168,6172,DATE,national education longitudinal study,0
+344,2,NELS,6187,6191,ORG,national education longitudinal study,0
+345,2,year,6272,6276,DATE,national education longitudinal study,0
+346,2,1994,6286,6290,DATE,national education longitudinal study,0
+347,2,"13,391",6321,6327,CARDINAL,national education longitudinal study,0
+348,2,"6,526",6373,6378,CARDINAL,national education longitudinal study,0
+349,2,"6,865",6389,6394,CARDINAL,national education longitudinal study,0
+350,2,7.0%,6466,6470,PERCENT,national education longitudinal study,0
+351,2,Asian/Pacific Islander,6471,6493,ORG,national education longitudinal study,0
+352,2,939,6503,6506,CARDINAL,national education longitudinal study,0
+353,2,10.8%,6509,6514,PERCENT,national education longitudinal study,0
+354,2,BK,6522,6524,ORG,national education longitudinal study,0
+355,2,"1,452",6530,6535,CARDINAL,national education longitudinal study,0
+356,2,13.5%,6538,6543,PERCENT,national education longitudinal study,0
+357,2,Hispanic,6544,6552,NORP,national education longitudinal study,0
+358,2,"1,813",6562,6567,CARDINAL,national education longitudinal study,0
+359,2,68.6%,6574,6579,PERCENT,national education longitudinal study,0
+360,2,"9,187",6595,6600,CARDINAL,national education longitudinal study,0
+361,2,Native American,6603,6618,NORP,national education longitudinal study,0
+362,2,286,6749,6752,CARDINAL,national education longitudinal study,0
+363,2,the base year,6785,6798,DATE,national education longitudinal study,0
+364,2,NELS,6820,6824,ORG,national education longitudinal study,0
+365,2,four,6850,6854,CARDINAL,national education longitudinal study,0
+366,2,LA,6909,6911,GPE,national education longitudinal study,0
+367,2,TA,6935,6937,ORG,national education longitudinal study,0
+368,2,"1,931",6987,6992,CARDINAL,national education longitudinal study,0
+369,2,first,7023,7028,ORDINAL,national education longitudinal study,0
+370,2,eighth,7128,7134,ORDINAL,national education longitudinal study,0
+371,2,more than one,7587,7600,CARDINAL,national education longitudinal study,0
+372,2,832,7649,7652,CARDINAL,national education longitudinal study,0
+373,2,43.1%,7670,7675,PERCENT,national education longitudinal study,0
+374,2,"1,099",7681,7686,CARDINAL,national education longitudinal study,0
+375,2,56.9%,7702,7707,PERCENT,national education longitudinal study,0
+376,2,"1,503",7727,7732,CARDINAL,national education longitudinal study,0
+377,2,eighth,7866,7872,ORDINAL,national education longitudinal study,0
+378,2,Forty-six percent,7933,7950,PERCENT,national education longitudinal study,0
+379,2,"3,015",8166,8171,CARDINAL,national education longitudinal study,0
+380,2,51%,8174,8177,PERCENT,national education longitudinal study,0
+381,2,"6,942",8251,8256,CARDINAL,national education longitudinal study,0
+382,2,46%,8259,8262,PERCENT,national education longitudinal study,0
+383,2,U.S.,8274,8278,GPE,national education longitudinal study,0
+384,2,the year 2000,8295,8308,DATE,national education longitudinal study,0
+385,2,49.1%,8366,8371,PERCENT,national education longitudinal study,0
+386,2,Smith & Spraggins,8378,8395,ORG,national education longitudinal study,0
+387,2,2001,8397,8401,DATE,national education longitudinal study,0
+388,2,Twenty-four,8405,8416,CARDINAL,national education longitudinal study,0
+389,2,1994,8450,8454,DATE,national education longitudinal study,0
+390,2,Lee,8800,8803,PERSON,national education longitudinal study,0
+391,2,Chen,8805,8809,PERSON,national education longitudinal study,0
+392,2,1996,8822,8826,DATE,national education longitudinal study,0
+393,2,Oswald,8828,8834,GPE,national education longitudinal study,0
+394,2,Coutinho,8836,8844,PERSON,national education longitudinal study,0
+395,2,& Nagle,8852,8859,ORG,national education longitudinal study,0
+396,2,2002,8861,8865,DATE,national education longitudinal study,0
+397,2,1,9010,9011,CARDINAL,national education longitudinal study,0
+398,2,2,9056,9057,CARDINAL,national education longitudinal study,0
+399,2,Postschool Education and Aspirations,9061,9097,ORG,national education longitudinal study,0
+400,2,3,9105,9106,CARDINAL,national education longitudinal study,0
+401,2,Postschool Demographic Outcomes,9110,9141,PERSON,national education longitudinal study,0
+402,2,4,9149,9150,CARDINAL,national education longitudinal study,0
+403,2,Postschool Attitudes,9154,9174,PERSON,national education longitudinal study,0
+404,2,5,9182,9183,CARDINAL,national education longitudinal study,0
+405,2,Community Engagement and Crime Involvement Outcomes,9191,9242,ORG,national education longitudinal study,0
+406,2,6,9250,9251,CARDINAL,national education longitudinal study,0
+407,2,hours,9316,9321,TIME,national education longitudinal study,0
+408,2,the past 12 months,9405,9423,DATE,national education longitudinal study,0
+409,2,two,9539,9542,CARDINAL,national education longitudinal study,0
+410,2,first,9612,9617,ORDINAL,national education longitudinal study,0
+411,2,LA,9739,9741,GPE,national education longitudinal study,0
+412,2,TA,9743,9745,GPE,national education longitudinal study,0
+413,2,Asian,9772,9777,NORP,national education longitudinal study,0
+414,2,Hispanic,9779,9787,NORP,national education longitudinal study,0
+415,2,first,9875,9880,ORDINAL,national education longitudinal study,0
+416,2,four,10091,10095,CARDINAL,national education longitudinal study,0
+417,2,0.20,10288,10292,CARDINAL,national education longitudinal study,0
+418,2,second,10349,10355,ORDINAL,national education longitudinal study,0
+419,2,second,10366,10372,ORDINAL,national education longitudinal study,0
+420,2,22,10512,10514,CARDINAL,national education longitudinal study,0
+421,2,hours,11166,11171,TIME,national education longitudinal study,0
+422,2,SE,11265,11267,GPE,national education longitudinal study,0
+423,2,LA,11269,11271,GPE,national education longitudinal study,0
+424,2,TA,11273,11275,GPE,national education longitudinal study,0
+425,2,Oswald,11290,11296,GPE,national education longitudinal study,0
+426,2,"Coutinho, & Best",11298,11314,ORG,national education longitudinal study,0
+427,2,second,11740,11746,ORDINAL,national education longitudinal study,0
+428,2,one,11906,11909,CARDINAL,national education longitudinal study,0
+429,2,second,12124,12130,ORDINAL,national education longitudinal study,0
+430,2,SE,12408,12410,ORG,national education longitudinal study,0
+431,2,LA,12415,12417,GPE,national education longitudinal study,0
+432,2,TA,12437,12439,LOC,national education longitudinal study,0
+433,2,LA,12482,12484,GPE,national education longitudinal study,0
+434,2,one,12505,12508,CARDINAL,national education longitudinal study,0
+435,2,TA,12519,12521,ORG,national education longitudinal study,0
+436,2,second,12546,12552,ORDINAL,national education longitudinal study,0
+437,2,Three,12584,12589,CARDINAL,national education longitudinal study,0
+438,2,months,12678,12684,DATE,national education longitudinal study,0
+439,2,between June 1992 and,12694,12715,DATE,national education longitudinal study,0
+440,2,August 1994,12716,12727,DATE,national education longitudinal study,0
+441,2,hours,12741,12746,TIME,national education longitudinal study,0
+442,2,1,12774,12775,CARDINAL,national education longitudinal study,0
+443,2,2,12883,12884,CARDINAL,national education longitudinal study,0
+444,2,5,12886,12887,CARDINAL,national education longitudinal study,0
+445,2,"13,391",12889,12895,CARDINAL,national education longitudinal study,0
+446,2,512,12899,12902,CARDINAL,national education longitudinal study,0
+447,2,four,12978,12982,CARDINAL,national education longitudinal study,0
+448,2,2,12993,12994,CARDINAL,national education longitudinal study,0
+449,2,15,12996,12998,CARDINAL,national education longitudinal study,0
+450,2,"13,391",13000,13006,CARDINAL,national education longitudinal study,0
+451,2,18,13010,13012,CARDINAL,national education longitudinal study,0
+452,2,months,13330,13336,DATE,national education longitudinal study,0
+453,2,four,13420,13424,CARDINAL,national education longitudinal study,0
+454,2,F(3,13433,13436,ORG,national education longitudinal study,0
+455,2,"13,294",13438,13444,CARDINAL,national education longitudinal study,0
+456,2,19,13448,13450,CARDINAL,national education longitudinal study,0
+457,2,LA,13620,13622,GPE,national education longitudinal study,0
+458,2,months,13670,13676,DATE,national education longitudinal study,0
+459,2,95%,13694,13697,PERCENT,national education longitudinal study,0
+460,2,CI,13707,13709,ORG,national education longitudinal study,0
+461,2,62.5%-68.2%,13717,13728,PERCENT,national education longitudinal study,0
+462,2,54.8%-60.7%,13740,13751,PERCENT,national education longitudinal study,0
+463,2,months,13845,13851,DATE,national education longitudinal study,0
+464,2,95%,13853,13856,PERCENT,national education longitudinal study,0
+465,2,CI,13866,13868,ORG,national education longitudinal study,0
+466,2,60%-64%,13877,13884,PERCENT,national education longitudinal study,0
+467,2,average hours,13955,13968,TIME,national education longitudinal study,0
+468,2,approximately 33 hours,14328,14350,TIME,national education longitudinal study,0
+469,2,95%,14361,14364,PERCENT,national education longitudinal study,0
+470,2,CI =,14374,14378,PERSON,national education longitudinal study,0
+471,2,31.9,14380,14384,CARDINAL,national education longitudinal study,0
+472,2,27 hours,14435,14443,TIME,national education longitudinal study,0
+473,2,95%,14454,14457,PERCENT,national education longitudinal study,0
+474,2,CI =,14467,14471,PERSON,national education longitudinal study,0
+475,2,26.6,14473,14477,CARDINAL,national education longitudinal study,0
+476,2,four,14547,14551,CARDINAL,national education longitudinal study,0
+477,2,Three,14560,14565,CARDINAL,national education longitudinal study,0
+478,2,2,14757,14758,CARDINAL,national education longitudinal study,0
+479,2,four,15002,15006,CARDINAL,national education longitudinal study,0
+480,2,95%,15487,15490,PERCENT,national education longitudinal study,0
+481,2,48.0- Note,15497,15507,WORK_OF_ART,national education longitudinal study,0
+482,2,LA,15561,15563,GPE,national education longitudinal study,0
+483,2,Groups,15638,15644,ORG,national education longitudinal study,0
+484,2,the National Education Longitudinal Study,15663,15704,ORG,national education longitudinal study,1
+485,2,National Center for Education Statistics,15711,15751,ORG,national education longitudinal study,0
+486,2,1994,15753,15757,DATE,national education longitudinal study,0
+487,2,Five,15761,15765,CARDINAL,national education longitudinal study,0
+488,2,GED,15878,15881,ORG,national education longitudinal study,0
+489,2,PSE,15940,15943,ORG,national education longitudinal study,0
+490,2,age 30,16018,16024,DATE,national education longitudinal study,0
+491,2,3,16036,16037,CARDINAL,national education longitudinal study,0
+492,2,GED,16088,16091,ORG,national education longitudinal study,0
+493,2,93%,16472,16475,PERCENT,national education longitudinal study,0
+494,2,SE,16493,16495,GPE,national education longitudinal study,0
+495,2,LA,16500,16502,GPE,national education longitudinal study,0
+496,2,92.6%,16548,16553,PERCENT,national education longitudinal study,0
+497,2,91.7%,16567,16572,PERCENT,national education longitudinal study,0
+498,2,SE,16630,16632,LOC,national education longitudinal study,0
+499,2,LA,16637,16639,GPE,national education longitudinal study,0
+500,2,26%,16996,16999,PERCENT,national education longitudinal study,0
+501,2,16%,17036,17039,PERCENT,national education longitudinal study,0
+502,2,PSE,17148,17151,ORG,national education longitudinal study,0
+503,2,53%,17291,17294,PERCENT,national education longitudinal study,0
+504,2,47%,17303,17306,PERCENT,national education longitudinal study,0
+505,2,PSE,17371,17374,ORG,national education longitudinal study,0
+506,2,46%,17384,17387,PERCENT,national education longitudinal study,0
+507,2,54%,17396,17399,PERCENT,national education longitudinal study,0
+508,2,52%,17730,17733,PERCENT,national education longitudinal study,0
+509,2,47%,17744,17747,PERCENT,national education longitudinal study,0
+510,2,54%,17981,17984,PERCENT,national education longitudinal study,0
+511,2,46%,17990,17993,PERCENT,national education longitudinal study,0
+512,2,4,18699,18700,CARDINAL,national education longitudinal study,0
+513,2,27%,18862,18865,PERCENT,national education longitudinal study,0
+514,2,14%,18917,18920,PERCENT,national education longitudinal study,0
+515,2,19%,18952,18955,PERCENT,national education longitudinal study,0
+516,2,10%,19013,19016,PERCENT,national education longitudinal study,0
+517,2,1.7%,19331,19335,PERCENT,national education longitudinal study,0
+518,2,TA,19350,19352,ORG,national education longitudinal study,0
+519,2,2%,19354,19356,PERCENT,national education longitudinal study,0
+520,2,LA,19359,19361,GPE,national education longitudinal study,0
+521,2,5%,19363,19365,PERCENT,national education longitudinal study,0
+522,2,6.9%,19376,19380,PERCENT,national education longitudinal study,0
+523,2,SE,19625,19627,ORG,national education longitudinal study,0
+524,2,LA,19632,19634,GPE,national education longitudinal study,0
+525,2,approximately 1,19675,19690,CARDINAL,national education longitudinal study,0
+526,2,22,19698,19700,CARDINAL,national education longitudinal study,0
+527,2,LA,19772,19774,GPE,national education longitudinal study,0
+528,2,TA,19813,19815,ORG,national education longitudinal study,0
+529,2,only about 1,19824,19836,CARDINAL,national education longitudinal study,0
+530,2,10,19840,19842,CARDINAL,national education longitudinal study,0
+531,2,one fourth,19881,19891,CARDINAL,national education longitudinal study,0
+532,2,almost one third,19925,19941,CARDINAL,national education longitudinal study,0
+533,2,LA,19958,19960,GPE,national education longitudinal study,0
+534,2,TA,20006,20008,ORG,national education longitudinal study,0
+535,2,approximately one fifth,20017,20040,CARDINAL,national education longitudinal study,0
+536,2,SE,20474,20476,GPE,national education longitudinal study,0
+537,2,LA,20481,20483,GPE,national education longitudinal study,0
+538,2,"8,471",20516,20521,MONEY,national education longitudinal study,0
+539,2,95%,20523,20526,PERCENT,national education longitudinal study,0
+540,2,"7,629-$9,315",20534,20546,MONEY,national education longitudinal study,0
+541,2,"only $5,480",20583,20594,MONEY,national education longitudinal study,0
+542,2,"4,598-$6,362",20597,20609,MONEY,national education longitudinal study,0
+543,2,TA,20622,20624,ORG,national education longitudinal study,0
+544,2,"8,115",20656,20661,MONEY,national education longitudinal study,0
+545,2,"7,582-$8,647",20664,20676,MONEY,national education longitudinal study,0
+546,2,"6,518",20710,20715,MONEY,national education longitudinal study,0
+547,2,"6,022-$7,014",20718,20730,MONEY,national education longitudinal study,0
+548,2,"8,754",20839,20844,MONEY,national education longitudinal study,0
+549,2,"7,920-$9,588",20847,20859,MONEY,national education longitudinal study,0
+550,2,"7,713",20884,20889,MONEY,national education longitudinal study,0
+551,2,"6,907-$8,520",20892,20904,MONEY,national education longitudinal study,0
+552,2,Five,20907,20911,CARDINAL,national education longitudinal study,0
+553,2,5,21150,21151,CARDINAL,national education longitudinal study,0
+554,2,39.9%,21521,21526,PERCENT,national education longitudinal study,0
+555,2,31.1%,21531,21536,PERCENT,national education longitudinal study,0
+556,2,SE,21788,21790,PERSON,national education longitudinal study,0
+557,2,94%,21874,21877,PERCENT,national education longitudinal study,0
+558,2,87%,21895,21898,PERCENT,national education longitudinal study,0
+559,2,about 88%,22001,22010,PERCENT,national education longitudinal study,0
+560,2,approximately 1%,22208,22224,PERCENT,national education longitudinal study,0
+561,2,about 90%,22283,22292,PERCENT,national education longitudinal study,0
+562,2,9.9%,22343,22347,PERCENT,national education longitudinal study,0
+563,2,8.2%,22407,22411,PERCENT,national education longitudinal study,0
+564,2,two,22655,22658,CARDINAL,national education longitudinal study,0
+565,2,two,22693,22696,CARDINAL,national education longitudinal study,0
+566,2,6,22735,22736,CARDINAL,national education longitudinal study,0
+567,2,LA,22923,22925,GPE,national education longitudinal study,0
+568,2,the National Education Longitudinal Study,22972,23013,ORG,national education longitudinal study,1
+569,2,National Center for Education Statistics,23020,23060,ORG,national education longitudinal study,0
+570,2,1994,23062,23066,DATE,national education longitudinal study,0
+571,2,LA,23267,23269,GPE,national education longitudinal study,0
+572,2,33%,23339,23342,PERCENT,national education longitudinal study,0
+573,2,28%,23347,23350,PERCENT,national education longitudinal study,0
+574,2,hours,23391,23396,TIME,national education longitudinal study,0
+575,2,week,23408,23412,DATE,national education longitudinal study,0
+576,2,about 6 hours,23543,23556,TIME,national education longitudinal study,0
+577,2,About 30%,23745,23754,PERCENT,national education longitudinal study,0
+578,2,only about 15%,23840,23854,PERCENT,national education longitudinal study,0
+579,2,You or a family member were a victim of a serious crime,23897,23952,WORK_OF_ART,national education longitudinal study,0
+580,2,24,24164,24166,CARDINAL,national education longitudinal study,0
+581,2,12,24240,24242,CARDINAL,national education longitudinal study,0
+582,2,approximately 20 years old,24718,24744,DATE,national education longitudinal study,0
+583,2,Levine & Edgar,24746,24760,ORG,national education longitudinal study,0
+584,2,1994,24762,24766,DATE,national education longitudinal study,0
+585,2,two,25003,25006,CARDINAL,national education longitudinal study,0
+586,2,one,25281,25284,CARDINAL,national education longitudinal study,0
+587,2,months,25779,25785,DATE,national education longitudinal study,0
+588,2,SE,25851,25853,LOC,national education longitudinal study,0
+589,2,LA,25858,25860,GPE,national education longitudinal study,0
+590,2,SE,25983,25985,LOC,national education longitudinal study,0
+591,2,LA,25989,25991,GPE,national education longitudinal study,0
+592,2,the National Longitudinal Transition Study (NLTS,26349,26397,ORG,national education longitudinal study,0
+593,2,two,26457,26460,CARDINAL,national education longitudinal study,0
+594,2,1987,26507,26511,DATE,national education longitudinal study,0
+595,2,2001,26516,26520,DATE,national education longitudinal study,0
+596,2,1991,26537,26541,DATE,national education longitudinal study,0
+597,2,2003,26560,26564,DATE,national education longitudinal study,0
+598,2,Wagner et al.,26567,26580,PERSON,national education longitudinal study,0
+599,2,2003,26582,26586,DATE,national education longitudinal study,0
+600,2,the past year,26633,26646,DATE,national education longitudinal study,0
+601,2,2001,26673,26677,DATE,national education longitudinal study,0
+602,2,1987,26693,26697,DATE,national education longitudinal study,0
+603,2,1987,26805,26809,DATE,national education longitudinal study,0
+604,2,Wagner,26872,26878,PERSON,national education longitudinal study,0
+605,2,2003,26887,26891,DATE,national education longitudinal study,0
+606,2,hours,26954,26959,TIME,national education longitudinal study,0
+607,2,2001,27064,27068,DATE,national education longitudinal study,0
+608,2,1987,27095,27099,DATE,national education longitudinal study,0
+609,2,hourly,27267,27273,TIME,national education longitudinal study,0
+610,2,second,27424,27430,ORDINAL,national education longitudinal study,0
+611,2,NLTS,27445,27449,ORG,national education longitudinal study,0
+612,2,NLTS,27494,27498,ORG,national education longitudinal study,0
+613,2,Wagner et al.,27506,27519,PERSON,national education longitudinal study,0
+614,2,2003,27521,27525,DATE,national education longitudinal study,0
+615,2,the past several years,27881,27903,DATE,national education longitudinal study,0
+616,2,Wagner,27917,27923,PERSON,national education longitudinal study,0
+617,2,2003,27940,27944,DATE,national education longitudinal study,0
+618,2,Wagner et al.,29409,29422,PERSON,national education longitudinal study,0
+619,2,1991,29424,29428,DATE,national education longitudinal study,0
+620,2,Wehmeyer,29434,29442,PERSON,national education longitudinal study,0
+621,2,Schwartz,29447,29455,PERSON,national education longitudinal study,0
+622,2,as early as eighth,30199,30217,CARDINAL,national education longitudinal study,0
+623,2,Rojewski & Yang,30225,30240,ORG,national education longitudinal study,0
+624,2,1997,30242,30246,DATE,national education longitudinal study,0
+625,2,the secondary school years,30354,30380,DATE,national education longitudinal study,0
+626,2,Lindstrom et al.,30579,30595,PERSON,national education longitudinal study,0
+627,2,2004,30597,30601,DATE,national education longitudinal study,0
+628,2,2004,31195,31199,DATE,national education longitudinal study,0
+629,2,Stephenson & Burge,31201,31219,ORG,national education longitudinal study,0
+630,2,1997,31221,31225,DATE,national education longitudinal study,0
+631,2,Wehmeyer & Schwartz,31227,31246,ORG,national education longitudinal study,0
+632,2,2001a,31248,31253,DATE,national education longitudinal study,0
+633,2,Palmer,32210,32216,PERSON,national education longitudinal study,0
+634,2,Wehmeyer,32218,32226,PERSON,national education longitudinal study,0
+635,2,"Gipson, & Agran",32228,32243,ORG,national education longitudinal study,0
+636,2,2004,32245,32249,DATE,national education longitudinal study,0
+637,2,Wehmeyer,32394,32402,NORP,national education longitudinal study,0
+638,2,Field,32404,32409,GPE,national education longitudinal study,0
+639,2,Doren,32411,32416,GPE,national education longitudinal study,0
+640,2,& Mason,32425,32432,ORG,national education longitudinal study,0
+641,2,2004,32434,32438,DATE,national education longitudinal study,0
+642,2,months,32893,32899,DATE,national education longitudinal study,0
+643,2,U.S. Department of Education,33402,33430,ORG,national education longitudinal study,0
+644,2,2002,33432,33436,DATE,national education longitudinal study,0
+645,2,Sitlington,34138,34148,PERSON,national education longitudinal study,0
+646,2,Clark,34150,34155,PERSON,national education longitudinal study,0
+647,2,2000,34168,34172,DATE,national education longitudinal study,0
+648,2,Martha J. Coutinho,35273,35291,PERSON,national education longitudinal study,0
+649,2,PhD,35293,35296,WORK_OF_ART,national education longitudinal study,0
+650,2,the Department of Human Development and Learning,35334,35382,ORG,national education longitudinal study,0
+651,2,East Tennessee State University,35386,35417,ORG,national education longitudinal study,0
+652,2,the U.S. Office of Special Education Programs,35652,35697,ORG,national education longitudinal study,0
+653,2,U.S. Department of Education,35699,35727,ORG,national education longitudinal study,0
+654,3,Federal Reserve Bank of Richmond S1,0,35,ORG,national education longitudinal study,0
+655,3,four-year,91,100,DATE,national education longitudinal study,0
+656,3,Judd,214,218,PERSON,national education longitudinal study,0
+657,3,2000,220,224,DATE,national education longitudinal study,0
+658,3,Pricing Model,249,262,PERSON,national education longitudinal study,0
+659,3,CAPM,264,268,PERSON,national education longitudinal study,0
+660,3,four-year,347,356,DATE,national education longitudinal study,0
+661,3,Heckman,466,473,PERSON,national education longitudinal study,0
+662,3,Lochner,475,482,PERSON,national education longitudinal study,0
+663,3,Todd,488,492,PERSON,national education longitudinal study,0
+664,3,2008,494,498,DATE,national education longitudinal study,0
+665,3,four-year,544,553,DATE,national education longitudinal study,0
+666,3,1960,616,620,DATE,national education longitudinal study,0
+667,3,around 10 percent,657,674,PERCENT,national education longitudinal study,0
+668,3,Heckman,774,781,PERSON,national education longitudinal study,0
+669,3,Navarro,787,794,PERSON,national education longitudinal study,0
+670,3,2005,796,800,DATE,national education longitudinal study,0
+671,3,four-year,988,997,DATE,national education longitudinal study,0
+672,3,1,1048,1049,CARDINAL,national education longitudinal study,0
+673,3,Heckman,1057,1064,PERSON,national education longitudinal study,0
+674,3,Navarro,1070,1077,PERSON,national education longitudinal study,0
+675,3,2005,1079,1083,DATE,national education longitudinal study,0
+676,3,two-year,1346,1354,DATE,national education longitudinal study,0
+677,3,two-year,1494,1502,DATE,national education longitudinal study,0
+678,3,two-year,1732,1740,DATE,national education longitudinal study,0
+679,3,four-year,1849,1858,DATE,national education longitudinal study,0
+680,3,two-year,1908,1916,DATE,national education longitudinal study,0
+681,3,four-year,2163,2172,DATE,national education longitudinal study,0
+682,3,Nicholas Trachter,2261,2278,PERSON,national education longitudinal study,0
+683,3,the Federal Reserve Bank of Richmond,2402,2438,ORG,national education longitudinal study,0
+684,3,the Federal Reserve System,2442,2468,ORG,national education longitudinal study,0
+685,3,two-year,2504,2512,DATE,national education longitudinal study,0
+686,3,four-year,2526,2535,DATE,national education longitudinal study,0
+687,3,2 56 percent,2548,2560,PERCENT,national education longitudinal study,0
+688,3,63 percent,2581,2591,PERCENT,national education longitudinal study,0
+689,3,four-year,2626,2635,DATE,national education longitudinal study,0
+690,3,1984,2955,2959,DATE,national education longitudinal study,0
+691,3,"16,454 41",2988,2997,DATE,national education longitudinal study,0
+692,3,"96,600",3066,3072,MONEY,national education longitudinal study,0
+693,3,HS&B,3158,3162,ORG,national education longitudinal study,0
+694,3,1982 to 1990,3186,3198,DATE,national education longitudinal study,0
+695,3,National Education Longitudinal Study of 1988,3200,3245,ORG,national education longitudinal study,1
+696,3,NELS:88,3247,3254,ORG,national education longitudinal study,0
+697,3,1992,3278,3282,DATE,national education longitudinal study,0
+698,3,2000,3286,3290,DATE,national education longitudinal study,0
+699,3,HS&B,3315,3319,ORG,national education longitudinal study,0
+700,3,13 years,3370,3378,DATE,national education longitudinal study,0
+701,3,8 years,3383,3390,DATE,national education longitudinal study,0
+702,3,two-year,3534,3542,DATE,national education longitudinal study,0
+703,3,two-year,3601,3609,DATE,national education longitudinal study,0
+704,3,two-year,3649,3657,DATE,national education longitudinal study,0
+705,3,disentangle vocational school,4064,4093,ORG,national education longitudinal study,0
+706,3,two-year,4108,4116,DATE,national education longitudinal study,0
+707,3,The National Longitudinal Study of the High School Class,4292,4348,ORG,national education longitudinal study,0
+708,3,1972,4352,4356,DATE,national education longitudinal study,0
+709,3,1972,4442,4446,DATE,national education longitudinal study,0
+710,3,the spring of 1972,4529,4547,DATE,national education longitudinal study,0
+711,3,1973,4587,4591,DATE,national education longitudinal study,0
+712,3,1973,4660,4664,DATE,national education longitudinal study,0
+713,3,1974,4666,4670,DATE,national education longitudinal study,0
+714,3,1976,4672,4676,DATE,national education longitudinal study,0
+715,3,1979,4678,4682,DATE,national education longitudinal study,0
+716,3,1986,4688,4692,DATE,national education longitudinal study,0
+717,3,four-year,4813,4822,DATE,national education longitudinal study,0
+718,3,first,4997,5002,ORDINAL,national education longitudinal study,0
+719,4,the National Education Longitudinal Study (,107,150,ORG,national education longitudinal study,1
+720,4,NELS,150,154,ORG,national education longitudinal study,0
+721,4,Hedges,851,857,ORG,national education longitudinal study,0
+722,4,Greenwald 1996,862,876,PERSON,national education longitudinal study,0
+723,4,1999,886,890,DATE,national education longitudinal study,0
+724,4,Rivkin,1065,1071,PERSON,national education longitudinal study,0
+725,4,Hanushek,1073,1081,PERSON,national education longitudinal study,0
+726,4,Kain 2005,1087,1096,PERSON,national education longitudinal study,0
+727,4,Hanushek,1114,1122,PERSON,national education longitudinal study,0
+728,4,Angrist and Lavy 1999,1150,1171,WORK_OF_ART,national education longitudinal study,0
+729,4,2000,1179,1183,DATE,national education longitudinal study,0
+730,4,Hanushek,1219,1227,PERSON,national education longitudinal study,0
+731,4,1992,1228,1232,DATE,national education longitudinal study,0
+732,4,Murnane,1840,1847,GPE,national education longitudinal study,0
+733,4,Levy,1852,1856,LOC,national education longitudinal study,0
+734,4,1996,1858,1862,DATE,national education longitudinal study,0
+735,4,fifteen,1878,1885,CARDINAL,national education longitudinal study,0
+736,4,Austin,1886,1892,GPE,national education longitudinal study,0
+737,4,Texas,1894,1899,GPE,national education longitudinal study,0
+738,4,"300,000",1925,1932,MONEY,national education longitudinal study,0
+739,4,thirteen,1965,1973,CARDINAL,national education longitudinal study,0
+740,4,two,2008,2011,CARDINAL,national education longitudinal study,0
+741,4,the National Education Longitudinal Study (NELS,2268,2315,ORG,national education longitudinal study,1
+742,4,Coleman Report,3204,3218,PERSON,national education longitudinal study,0
+743,4,Hanushek,3559,3567,PERSON,national education longitudinal study,0
+744,4,1996,3569,3573,DATE,national education longitudinal study,0
+745,4,Hedges,3639,3645,ORG,national education longitudinal study,0
+746,4,Greenwald,3650,3659,PERSON,national education longitudinal study,0
+747,4,Krueger,3671,3678,PERSON,national education longitudinal study,0
+748,4,1999,3680,3684,DATE,national education longitudinal study,0
+749,4,Rivkin,3958,3964,PERSON,national education longitudinal study,0
+750,4,Hanushek,3966,3974,PERSON,national education longitudinal study,0
+751,4,Kain 2005,3980,3989,PERSON,national education longitudinal study,0
+752,4,Hanushek,4007,4015,PERSON,national education longitudinal study,0
+753,4,Angrist and Lavy 1999,4043,4064,WORK_OF_ART,national education longitudinal study,0
+754,4,2000,4075,4079,DATE,national education longitudinal study,0
+755,4,Hanushek,4116,4124,PERSON,national education longitudinal study,0
+756,4,1992,4125,4129,DATE,national education longitudinal study,0
+757,4,The Coleman Report,4133,4151,PERSON,national education longitudinal study,0
+758,4,Murnane,4336,4343,GPE,national education longitudinal study,0
+759,4,Maynard,4345,4352,GPE,national education longitudinal study,0
+760,4,Ohls,4358,4362,ORG,national education longitudinal study,0
+761,4,1981,4363,4367,DATE,national education longitudinal study,0
+762,4,Hanushek,4369,4377,ORG,national education longitudinal study,0
+763,4,1992,4378,4382,DATE,national education longitudinal study,0
+764,4,Goldhaber,4384,4393,GPE,national education longitudinal study,0
+765,4,Brewer 1997,4398,4409,DATE,national education longitudinal study,0
+766,4,Ehrenberg,4411,4420,GPE,national education longitudinal study,0
+767,4,Brewer 1994,4425,4436,DATE,national education longitudinal study,0
+768,4,Ferguson,4442,4450,GPE,national education longitudinal study,0
+769,4,Ladd 1996,4455,4464,DATE,national education longitudinal study,0
+770,4,Hanushek,4478,4486,PERSON,national education longitudinal study,0
+771,4,1992,4488,4492,DATE,national education longitudinal study,0
+772,4,Hanushek,4732,4740,PERSON,national education longitudinal study,0
+773,4,al. 2003,4744,4752,DATE,national education longitudinal study,0
+774,4,Leibowitz 1974 Leibowitz,5017,5041,PERSON,national education longitudinal study,0
+775,4,1977 Hill,5044,5053,PERSON,national education longitudinal study,0
+776,4,Stafford 1977,5058,5071,PERSON,national education longitudinal study,0
+777,4,1980,5073,5077,DATE,national education longitudinal study,0
+778,4,Kooreman,5079,5087,PERSON,national education longitudinal study,0
+779,4,Kapteyn,5092,5099,PERSON,national education longitudinal study,0
+780,4,1987,5100,5104,DATE,national education longitudinal study,0
+781,4,Kim,5110,5113,PERSON,national education longitudinal study,0
+782,4,2001,5114,5118,DATE,national education longitudinal study,0
+783,4,1965,5520,5524,DATE,national education longitudinal study,0
+784,4,1976,5546,5550,DATE,national education longitudinal study,0
+785,4,Todd,5602,5606,PERSON,national education longitudinal study,0
+786,4,Wolpin,5611,5617,ORG,national education longitudinal study,0
+787,4,2003,5619,5623,DATE,national education longitudinal study,0
+788,4,max,5807,5810,PERSON,national education longitudinal study,0
+789,4,UðA,5811,5814,ORG,national education longitudinal study,0
+790,4,hours,6010,6015,TIME,national education longitudinal study,0
+791,4,2,6271,6272,CARDINAL,national education longitudinal study,0
+792,4,1,6329,6330,CARDINAL,national education longitudinal study,0
+793,4,Witte,6616,6621,PERSON,national education longitudinal study,0
+794,4,1996,6623,6627,DATE,national education longitudinal study,0
+795,4,Nechyba,6867,6874,PERSON,national education longitudinal study,0
+796,4,2000,6876,6880,DATE,national education longitudinal study,0
+797,4,2,6950,6951,CARDINAL,national education longitudinal study,0
+798,4,three,7104,7109,CARDINAL,national education longitudinal study,0
+799,4,@A=@E 3 @E=@S,8397,8410,PERSON,national education longitudinal study,0
+800,4,0,8515,8516,MONEY,national education longitudinal study,0
+801,4,0,8600,8601,CARDINAL,national education longitudinal study,0
+802,4,two,9200,9203,CARDINAL,national education longitudinal study,0
+803,4,first,9244,9249,ORDINAL,national education longitudinal study,0
+804,4,second,9502,9508,ORDINAL,national education longitudinal study,0
+805,4,NELS,9841,9845,ORG,national education longitudinal study,0
+806,4,"24,599",9904,9910,CARDINAL,national education longitudinal study,0
+807,4,eighth,9911,9917,ORDINAL,national education longitudinal study,0
+808,4,815,9939,9942,CARDINAL,national education longitudinal study,0
+809,4,237,9962,9965,CARDINAL,national education longitudinal study,0
+810,4,NELS,10154,10158,ORG,national education longitudinal study,0
+811,4,eighth,10202,10208,ORDINAL,national education longitudinal study,0
+812,4,tenth,10218,10223,ORDINAL,national education longitudinal study,0
+813,4,twelfth,10233,10240,ORDINAL,national education longitudinal study,0
+814,4,every two years,10264,10279,DATE,national education longitudinal study,0
+815,4,eighth,10327,10333,ORDINAL,national education longitudinal study,0
+816,4,tenth,10338,10343,ORDINAL,national education longitudinal study,0
+817,4,eighth,10388,10394,ORDINAL,national education longitudinal study,0
+818,4,tenth,10447,10452,ORDINAL,national education longitudinal study,0
+819,4,tenth,10469,10474,ORDINAL,national education longitudinal study,0
+820,4,the earlier years,10515,10532,DATE,national education longitudinal study,0
+821,4,NELS,10540,10544,ORG,national education longitudinal study,0
+822,4,1,10749,10750,CARDINAL,national education longitudinal study,0
+823,4,4,10973,10974,CARDINAL,national education longitudinal study,0
+824,4,five,10986,10990,CARDINAL,national education longitudinal study,0
+825,4,tenth,11010,11015,ORDINAL,national education longitudinal study,0
+826,4,1,11095,11096,CARDINAL,national education longitudinal study,0
+827,4,2,11165,11166,CARDINAL,national education longitudinal study,0
+828,4,3,11212,11213,CARDINAL,national education longitudinal study,0
+829,4,4,11265,11266,CARDINAL,national education longitudinal study,0
+830,4,5,11298,11299,CARDINAL,national education longitudinal study,0
+831,4,five,11367,11371,CARDINAL,national education longitudinal study,0
+832,4,first,11421,11426,ORDINAL,national education longitudinal study,0
+833,4,two,11427,11430,CARDINAL,national education longitudinal study,0
+834,4,Muller,11568,11574,PERSON,national education longitudinal study,0
+835,4,Kerbow,11579,11585,ORG,national education longitudinal study,0
+836,4,1993,11586,11590,DATE,national education longitudinal study,0
+837,4,two,11610,11613,CARDINAL,national education longitudinal study,0
+838,4,third,11749,11754,ORDINAL,national education longitudinal study,0
+839,4,three,11960,11965,CARDINAL,national education longitudinal study,0
+840,4,two,12180,12183,CARDINAL,national education longitudinal study,0
+841,4,1,12231,12232,CARDINAL,national education longitudinal study,0
+842,4,2,12307,12308,CARDINAL,national education longitudinal study,0
+843,4,five,12319,12323,CARDINAL,national education longitudinal study,0
+844,4,two,12931,12934,CARDINAL,national education longitudinal study,0
+845,4,4,13092,13093,CARDINAL,national education longitudinal study,0
+846,4,5,13241,13242,CARDINAL,national education longitudinal study,0
+847,4,eighth,13276,13282,ORDINAL,national education longitudinal study,0
+848,4,eighth,13483,13489,ORDINAL,national education longitudinal study,0
+849,4,five,13575,13579,CARDINAL,national education longitudinal study,0
+850,4,6,13783,13784,CARDINAL,national education longitudinal study,0
+851,4,6,13814,13815,CARDINAL,national education longitudinal study,0
+852,4,first,14162,14167,ORDINAL,national education longitudinal study,0
+853,4,second,14172,14178,ORDINAL,national education longitudinal study,0
+854,4,two,14298,14301,CARDINAL,national education longitudinal study,0
+855,4,second,14374,14380,ORDINAL,national education longitudinal study,0
+856,4,Hanushek 1996,14813,14826,PERSON,national education longitudinal study,0
+857,4,eighth,14989,14995,ORDINAL,national education longitudinal study,0
+858,4,tenth,15018,15023,ORDINAL,national education longitudinal study,0
+859,4,eighth,15162,15168,ORDINAL,national education longitudinal study,0
+860,4,eighth,15367,15373,ORDINAL,national education longitudinal study,0
+861,4,tenth,15460,15465,ORDINAL,national education longitudinal study,0
+862,4,NELS,16118,16122,ORG,national education longitudinal study,0
+863,4,"17,310",16271,16277,CARDINAL,national education longitudinal study,0
+864,4,base-year,16315,16324,DATE,national education longitudinal study,0
+865,4,"1,775",16331,16336,CARDINAL,national education longitudinal study,0
+866,4,first,16388,16393,ORDINAL,national education longitudinal study,0
+867,4,"15,535",16435,16441,CARDINAL,national education longitudinal study,0
+868,4,"5,153",16452,16457,CARDINAL,national education longitudinal study,0
+869,4,"10,382",16575,16581,CARDINAL,national education longitudinal study,0
+870,4,9 7,16894,16897,DATE,national education longitudinal study,0
+871,4,five,16952,16956,CARDINAL,national education longitudinal study,0
+872,4,0.38,17045,17049,CARDINAL,national education longitudinal study,0
+873,4,8,17051,17052,CARDINAL,national education longitudinal study,0
+874,4,Hanushek,17151,17159,PERSON,national education longitudinal study,0
+875,4,Taylor 1990,17164,17175,PERSON,national education longitudinal study,0
+876,4,Todd,17177,17181,ORG,national education longitudinal study,0
+877,4,Wolpin,17186,17192,ORG,national education longitudinal study,0
+878,4,2003,17193,17197,DATE,national education longitudinal study,0
+879,4,9,17201,17202,CARDINAL,national education longitudinal study,0
+880,4,"5,257",17288,17293,CARDINAL,national education longitudinal study,0
+881,4,A. Student,17786,17796,PERSON,national education longitudinal study,0
+882,4,2,17815,17816,CARDINAL,national education longitudinal study,0
+883,4,five,17928,17932,CARDINAL,national education longitudinal study,0
+884,4,10,17980,17982,CARDINAL,national education longitudinal study,0
+885,4,first,17987,17992,ORDINAL,national education longitudinal study,0
+886,4,2,18009,18010,CARDINAL,national education longitudinal study,0
+887,4,three,18384,18389,CARDINAL,national education longitudinal study,0
+888,4,two,18480,18483,CARDINAL,national education longitudinal study,0
+889,4,more than four,18788,18802,CARDINAL,national education longitudinal study,0
+890,4,six,18804,18807,CARDINAL,national education longitudinal study,0
+891,4,"1,000",18867,18872,MONEY,national education longitudinal study,0
+892,4,five,19723,19727,CARDINAL,national education longitudinal study,0
+893,4,Table 2,20066,20073,WORK_OF_ART,national education longitudinal study,0
+894,4,five,20418,20422,CARDINAL,national education longitudinal study,0
+895,4,only one,20461,20469,CARDINAL,national education longitudinal study,0
+896,4,five,20677,20681,CARDINAL,national education longitudinal study,0
+897,4,11,20801,20803,CARDINAL,national education longitudinal study,0
+898,4,provides little 10,20827,20845,CARDINAL,national education longitudinal study,0
+899,4,more than one,20862,20875,CARDINAL,national education longitudinal study,0
+900,4,11,20986,20988,CARDINAL,national education longitudinal study,0
+901,4,One,20990,20993,CARDINAL,national education longitudinal study,0
+902,4,the National Education Longitudinal Study (NELS,21257,21304,ORG,national education longitudinal study,1
+903,4,1,21395,21396,CARDINAL,national education longitudinal study,0
+904,4,5,21398,21399,CARDINAL,national education longitudinal study,0
+905,4,10 percent,21405,21415,PERCENT,national education longitudinal study,0
+906,4,Huber/White,21603,21614,ORG,national education longitudinal study,0
+907,4,Three,21655,21660,CARDINAL,national education longitudinal study,0
+908,4,zero,22090,22094,CARDINAL,national education longitudinal study,0
+909,4,@E=@S,22192,22197,PERSON,national education longitudinal study,0
+910,4,3,22277,22278,CARDINAL,national education longitudinal study,0
+911,4,five,22354,22358,CARDINAL,national education longitudinal study,0
+912,4,12,22369,22371,CARDINAL,national education longitudinal study,0
+913,4,2,22384,22385,CARDINAL,national education longitudinal study,0
+914,4,five,22447,22451,CARDINAL,national education longitudinal study,0
+915,4,five,22551,22555,QUANTITY,national education longitudinal study,0
+916,4,five,22633,22637,QUANTITY,national education longitudinal study,0
+917,4,three,22835,22840,CARDINAL,national education longitudinal study,0
+918,4,five,23025,23029,CARDINAL,national education longitudinal study,0
+919,4,one,23487,23490,CARDINAL,national education longitudinal study,0
+920,4,3,24106,24107,CARDINAL,national education longitudinal study,0
+921,4,three,24493,24498,CARDINAL,national education longitudinal study,0
+922,4,five,24630,24634,CARDINAL,national education longitudinal study,0
+923,4,three,24809,24814,CARDINAL,national education longitudinal study,0
+924,4,Two,24836,24839,CARDINAL,national education longitudinal study,0
+925,4,First,24878,24883,ORDINAL,national education longitudinal study,0
+926,4,Second,25193,25199,ORDINAL,national education longitudinal study,0
+927,4,the National Education Longitudinal Study (NELS,25737,25784,ORG,national education longitudinal study,1
+928,4,1,25867,25868,CARDINAL,national education longitudinal study,0
+929,4,5,25870,25871,CARDINAL,national education longitudinal study,0
+930,4,10 percent,25877,25887,PERCENT,national education longitudinal study,0
+931,4,Huber/White,26075,26086,ORG,national education longitudinal study,0
+932,4,Three,26127,26132,CARDINAL,national education longitudinal study,0
+933,4,13,26241,26243,CARDINAL,national education longitudinal study,0
+934,4,two,26281,26284,CARDINAL,national education longitudinal study,0
+935,4,14,26739,26741,CARDINAL,national education longitudinal study,0
+936,4,NELS,27623,27627,ORG,national education longitudinal study,0
+937,4,an additional four to six years,28022,28053,DATE,national education longitudinal study,0
+938,4,"more than $1,000",28079,28095,MONEY,national education longitudinal study,0
+939,4,13,28833,28835,CARDINAL,national education longitudinal study,0
+940,4,@E=@S°,29377,29383,ORG,national education longitudinal study,0
+941,4,14,29389,29391,CARDINAL,national education longitudinal study,0
+942,4,Daughters,29732,29741,ORG,national education longitudinal study,0
+943,4,two,30114,30117,CARDINAL,national education longitudinal study,0
+944,4,Parental,31504,31512,ORG,national education longitudinal study,0
+945,4,Murnane,31793,31800,GPE,national education longitudinal study,0
+946,4,Levy,31805,31809,LOC,national education longitudinal study,0
+947,4,1996,31811,31815,DATE,national education longitudinal study,0
+948,4,Congress,31926,31934,ORG,national education longitudinal study,0
+949,4,2000,32010,32014,CARDINAL,national education longitudinal study,0
+950,4,eighth,32049,32055,ORDINAL,national education longitudinal study,0
+951,4,1,32279,32280,CARDINAL,national education longitudinal study,0
+952,4,U.S. Department of Education,32282,32310,ORG,national education longitudinal study,0
+953,4,1998,32311,32315,DATE,national education longitudinal study,0
